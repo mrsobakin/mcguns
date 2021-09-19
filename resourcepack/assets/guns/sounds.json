@@ -1,0 +1,23 @@
+{
+	"deagle_shot": {
+		"sounds": ["guns:deagle"]
+	},
+	"ak_shot": {
+		"sounds": ["guns:ak"]
+	},
+	"sawed_off_shot": {
+		"sounds": ["guns:sawed_off"]
+	},
+	"tennis_rocket": {
+		"sounds": ["guns:tennisrocket1", "guns:tennisrocket2", "guns:tennisrocket3", "guns:tennisrocket4"]
+	},
+	"contusion_short": {
+		"sounds": ["guns:contusion_short"]
+	},
+	"contusion_med": {
+		"sounds": ["guns:contusion_med"]
+	},
+	"contusion_long": {
+		"sounds": ["guns:contusion_long"]
+	}
+}

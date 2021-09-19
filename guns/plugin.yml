@@ -1,0 +1,10 @@
+name: guns
+version: 0.1
+author: sbkn
+main: net.sbkn.guns.Guns
+api-version: 1.14
+commands:
+  cgive:
+    description: Gives item
+    usage: /<command> <id>
+depend: [ CustomThings ]

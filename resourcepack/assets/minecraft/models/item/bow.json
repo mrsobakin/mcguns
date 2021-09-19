@@ -1,0 +1,12 @@
+{
+	"parent": "item/ogbow",
+	"textures": {
+		"layer0": "item/bow"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 16384}, "model": "guns:base/grenade"},
+		{"predicate": {"custom_model_data": 20480}, "model": "guns:base/molotov"},
+		{"predicate": {"custom_model_data": 28672}, "model": "guns:base/tennisrocket"},
+		{"predicate": {"custom_model_data": 32768}, "model": "guns:base/bookofzeus"}
+	]
+}

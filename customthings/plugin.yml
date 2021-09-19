@@ -1,0 +1,6 @@
+name: CustomThings
+version: 0.1
+author: sbkn
+main: net.sbkn.customthings.CustomThings
+api-version: 1.14
+depend: [ProtocolLib]

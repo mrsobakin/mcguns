@@ -1,0 +1,16 @@
+{
+	"parent": "item/iron_horse_armor",
+	"textures": {
+		"layer0": "item/iron_horse_armor"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 4096 }, "model": "guns:variations/deagle"},
+		{"predicate": {"custom_model_data": 4097 }, "model": "guns:variations/deagle_scope"},
+		{"predicate": {"custom_model_data": 8192 }, "model": "guns:variations/ak"},
+		{"predicate": {"custom_model_data": 8193 }, "model": "guns:variations/ak_scope"},
+		{"predicate": {"custom_model_data": 12288 }, "model": "guns:variations/sawed_off"},
+		{"predicate": {"custom_model_data": 12289 }, "model": "guns:variations/sawed_off_scope"},
+		{"predicate": {"custom_model_data": 24576 }, "model": "guns:variations/awp"},
+		{"predicate": {"custom_model_data": 24577 }, "model": "guns:variations/awp_scope"}
+	]
+}
